@@ -40,7 +40,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/kooksee/uspnet/crypto"
+	"github.com/kooksee/crypt"
 )
 
 var dumpEnc bool

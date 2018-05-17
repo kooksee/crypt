@@ -28,9 +28,9 @@ import (
 	"math/big"
 	"os"
 
-	"github.com/kooksee/uspnet/common"
-	"github.com/kooksee/uspnet/common/math"
-	"github.com/kooksee/uspnet/crypto/sha3"
+	"github.com/kooksee/common"
+	"github.com/kooksee/common/math"
+	"github.com/kooksee/crypt/sha3"
 )
 
 var (

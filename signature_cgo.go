@@ -23,8 +23,8 @@ import (
 	"crypto/elliptic"
 	"fmt"
 
-	"github.com/kooksee/uspnet/common/math"
-	"github.com/kooksee/uspnet/crypto/secp256k1"
+	"github.com/kooksee/common/math"
+	"github.com/kooksee/crypt/secp256k1"
 )
 
 func Ecrecover(hash, sig []byte) ([]byte, error) {

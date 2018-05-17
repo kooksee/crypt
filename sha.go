@@ -6,8 +6,8 @@
 package crypto
 
 import (
-	"github.com/kooksee/uspnet/common"
-	"github.com/kooksee/uspnet/crypto/sha3"
+	"github.com/kooksee/common"
+	"github.com/kooksee/crypt/sha3"
 )
 
 const (

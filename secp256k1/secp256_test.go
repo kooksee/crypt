@@ -24,8 +24,8 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/kooksee/uspnet/common/math"
-	"github.com/kooksee/uspnet/crypto/randentropy"
+	"github.com/kooksee/common/math"
+	"github.com/kooksee/crypt/randentropy"
 )
 
 const TestCount = 1000
